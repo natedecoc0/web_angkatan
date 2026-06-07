@@ -66,9 +66,9 @@ const MemberPopup = ({ isOpen, onClose }: MemberPopupProps) => {
 
         <div className="pr-10">
           {/* UBAH NAMA ANDA */}
-          <h2 className="text-2xl font-black">Catherina Vallencia K</h2>
+          <h2 className="text-2xl font-black">Nathania Tiara Wahyudi</h2>
           {/* UBAH NRP DAN ASAL */}
-          <p className="text-neutral-cs-10/70 mt-1 text-sm font-semibold">5027251082 - Surakarta</p>
+          <p className="text-neutral-cs-10/70 mt-1 text-sm font-semibold">5027251089 - Jombang</p>
         </div>
 
         <div className="mt-5 flex gap-2">
